@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **adityasinghrajput7@gmail.com**
 
-<h3 align="left">Spotify Playing 🎧</h3>
-
-[![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/track/2K7ftgpxTt8z8uuWL0X6S3?si=2e71a0527711481a)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
